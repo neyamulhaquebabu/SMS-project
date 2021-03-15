@@ -1,0 +1,2 @@
+Student_name:  	|	 Age: 21 	|	 Birth Date: 30.01.2000 	|	 Fathers name: rahim 	|	  Mothers name: rahima 	|	  Gender: male 	|	  Permanent_Address: abcd 	|	 Present_Address: fegh 	|	 Contact_number: 1234 	|	 Photo: 12
+  

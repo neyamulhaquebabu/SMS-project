@@ -1,0 +1,1 @@
+teachers_name: jahid 	|	 Age: 34 	|	 Gender: male 	|	 marital_status: married 	|	 Salary: 35000 	|	 Contact_number: 34556789

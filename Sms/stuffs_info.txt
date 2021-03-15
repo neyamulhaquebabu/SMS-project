@@ -1,0 +1,1 @@
+stuffs_name: nirob 	|	 Age: 28 	|	 Gender: male 	|	 marital_status: married 	|	 Salary: 20000 	|	 Contact_number : 3445634 	|	,

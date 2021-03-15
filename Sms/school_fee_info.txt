@@ -1,0 +1,1 @@
+Online_payment: 34000 	|	 No_late_fees: 0 	|	 Unpaid_school_fees: 0
